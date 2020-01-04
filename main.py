@@ -3,7 +3,6 @@
 
 import sys
 import glob
-import re
 import os
 
 print('sys.argv         \n   ', sys.argv)
