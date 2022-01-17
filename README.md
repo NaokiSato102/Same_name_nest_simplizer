@@ -1,12 +1,7 @@
-# Same_name_nest_simplizer
+# [Same_name_nest_simplizer](https://github.com/NaokiSato102/Same_name_nest_simplizer)
 This is a program that corrects the nesting of folders with the same name, which occurs when uncompressing compressed files at once.  
 
 これは圧縮ファイルを一括で解凍したときに発生する、同じ名前のフォルダが入れ子になるのを訂正するプログラムです。  
-
-※  
-Nothing has been done yet.  
-まだ何もできてません。
-
 
 ## example  
 Eliminate the nest of the same name of the folder decompressed under the foo folder.  
